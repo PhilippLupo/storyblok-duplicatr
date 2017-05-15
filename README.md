@@ -5,7 +5,7 @@
 <br><br>
 
 ## Instalation
-```npm install storyblok-duplicatr```
+```npm install```
 
 ## Usage
 Make sure to change the ```userdata.js``` by adding your storyblok credentials and also adjust the ```config.js```, 
